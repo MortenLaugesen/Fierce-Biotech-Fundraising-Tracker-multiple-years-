@@ -1,0 +1,7 @@
+trackers:
+  - year: 2026
+    url: "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26"   # replace with actual URL
+  - year: 2025
+    url: "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-25"
+  - year: 2024
+    url: "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-24"
